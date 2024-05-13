@@ -3,7 +3,7 @@ Atlassian Python API wrapper
 ============================
 |Build Status| |PyPI version| |PyPI - Downloads| |License| |Codacy Badge| |Docs| |Discord|
 
-What is it?
+What is it???
 ___________
 The **atlassian-python-api** library provides a **simple** and convenient way to interact with Atlassian products
 (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python.
